@@ -31,3 +31,16 @@ same as above with extra glitching
 | Boot: | Shutdown: |
 |:---------------------------------------:|:---------------------------------------------:|
 ![bootani](<CyberGlitch-2077.gif>) | ![shutani](<CyberGlitch-2077-SD.gif>) |
+
+## Cyberpunk-Flateline-2077.zip
+Re Edited the intro sequence with text alteration
+ -Cyberpunk 2077 changed to Cyberpunk
+ -Hard Disk Changed to Nand Disk
+ -Console Text Scroll re animated to the top of the screen
+ -second part of the intro animation now loops until boot
+ -Re Edited Shutdown with Flatlined looped until reboot/shutdown
+
+
+| Boot: | Shutdown: |
+|:---------------------------------------:|:---------------------------------------------:|
+![bootani](<Cyberpunk-Flatline-2077.gif>) | ![shutani](<Cyberpunk-Flatline-2077-SD.gif>)![shutani](<Cyberpunk-Flatline-2077-SD2.gif>) |
