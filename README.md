@@ -2,6 +2,8 @@
 
 These are for **OxygenOS 13 only**
 
+* has been tested and confirmed OOS14 on a 1+10Pro & OO15 but use at your own risk as I haven't the ability to confirm *
+
 flash in `magisk` or `Fox's Magisk Module Manager`
 
 Originally I modified bootanimations posted on the [XDA OnePlus 9 Pro](https://forum.xda-developers.com/t/customs-boot-animation-oos-12-1-oos-13.4523265/) subforum
