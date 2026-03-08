@@ -1,8 +1,8 @@
-# Oxygen OS 13 Boot & Shutdown Animation
+# Oxygen OS 13(untested 14/15/16) but confirmed working by others, Boot & Shutdown Animation
 
-These are for **OxygenOS 13 only**
+These have only been tested by me on **OxygenOS 13 only**
 
-* has been tested and confirmed OOS14 on a 1+10Pro & OO15 but use at your own risk as I haven't the ability to confirm *
+* has been tested and confirmed OOS14 on a 1+10Pro & OOS15 & OOS16 but use at your own risk as I haven't the ability to confirm *
 
 flash in `magisk` or `Fox's Magisk Module Manager`
 
